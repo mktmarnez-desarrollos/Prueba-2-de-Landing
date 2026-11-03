@@ -1457,7 +1457,8 @@
     "default": "En Dzidzantún, Yucatán, Arennea reúne 919 lotes desde 160 m² en ocho etapas. El proyecto contempla 26,000 m² de áreas verdes, dos parques para mascotas, canchas de usos múltiples, asadores, andadores y un área comercial.",
     "kind": "text",
     "group": "ARENNEA",
-    "block": "Contenido de la sección"
+    "block": "Contenido de la sección",
+    "archived": true
   },
   {
     "id": "escritura",
@@ -1465,7 +1466,8 @@
     "default": "Las mensualidades comienzan en el segundo mes y el lote se escritura al liquidar.",
     "kind": "text",
     "group": "ARENNEA",
-    "block": "Contenido de la sección"
+    "block": "Contenido de la sección",
+    "archived": true
   },
   {
     "id": "arennea-dato-1",
@@ -1537,7 +1539,8 @@
     "default": "Conoce Arennea",
     "kind": "text",
     "group": "ARENNEA",
-    "block": "Botones y enlaces"
+    "block": "Botones y enlaces",
+    "archived": true
   },
   {
     "id": "btn-facebook",
@@ -1561,7 +1564,8 @@
     "label": "Cierre de comunidad · etiqueta",
     "default": "Más que una oficina",
     "kind": "text",
-    "block": "Contenido de la sección"
+    "block": "Contenido de la sección",
+    "archived": true
   },
   {
     "id": "comunidad-cierre-titulo",
@@ -1569,7 +1573,8 @@
     "label": "Cierre de comunidad · título",
     "default": "Tu carrera se construye en persona y en comunidad.",
     "kind": "text",
-    "block": "Contenido de la sección"
+    "block": "Contenido de la sección",
+    "archived": true
   },
   {
     "id": "comunidad-cierre-texto",
@@ -1577,7 +1582,8 @@
     "label": "Cierre de comunidad · texto",
     "default": "Practicamos, resolvemos dudas y celebramos cada cierre juntos. Ven a vivirlo con el equipo Marnez.",
     "kind": "text",
-    "block": "Contenido de la sección"
+    "block": "Contenido de la sección",
+    "archived": true
   },
   {
     "id": "url-0",
@@ -1666,7 +1672,8 @@
     "default": "https://marnez.mx/arennea/",
     "label": "Destino · Conoce Arennea",
     "block": "Botones y enlaces",
-    "group": "ARENNEA"
+    "group": "ARENNEA",
+    "archived": true
   },
   {
     "id": "url-11",

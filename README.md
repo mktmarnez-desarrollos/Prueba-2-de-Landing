@@ -26,8 +26,8 @@ Ganancias muestra el título, la jornada y los ejemplos de 3, 4 y 5 lotes. La ru
 
 - «Venta consultiva» ahora dice «venta» en la portada.
 - Ganancias: la jornada (días y horas) forma parte del título.
-- Arennea: la información del desarrollo se presenta como ficha con cifras destacadas (editables en el panel, grupo ARENNEA) y el botón «Conoce Arennea» va centrado.
-- Ubicación: se quitó el botón «Ver en Google Maps» (queda archivado en el catálogo de textos). Se conserva el mapa insertado y «Agenda tu reunión».
-- Facebook y sitio web ahora son un cierre de comunidad debajo de las preguntas frecuentes, con textos nuevos editables (grupo UBICACIÓN Y CONTACTO).
+- Arennea: debajo de las fotos solo quedan cuatro cifras destacadas en una franja (editables en el panel, grupo ARENNEA). Se retiraron el párrafo, la nota de mensualidades y el botón «Conoce Arennea»; sus textos quedan archivados en el catálogo.
+- Ubicación: sin botón de Google Maps. El bloque de ubicación (fotos, mapa, dirección y «Agenda tu reunión») va ahora debajo de las preguntas frecuentes.
+- Se retiró el cuadro «Más que una oficina». Los botones «Vive la comunidad Marnez» (Facebook) y «Descubre el mundo Marnez» (sitio web) se conservan al final del bloque de ubicación.
 - Colores de bloques: se alternan azul grisáceo claro, crema y azul marino para evitar saltos bruscos de blanco a azul.
 - Si algún texto ya fue editado desde el panel, el valor guardado sigue mandando sobre el del HTML.

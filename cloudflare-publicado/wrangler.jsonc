@@ -1,0 +1,12 @@
+{
+  "name": "arennea-reclutamiento",
+  "main": "worker.mjs",
+  "compatibility_date": "2026-10-28",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "arennea-reclutamiento-media",
+      "database_id": "2f1d3bdb-540b-4fbc-968b-a241cb835390"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "sections": [
+    {
+      "id": "inicio",
+      "label": "Inicio e hitos"
+    },
+    {
+      "id": "oportunidad",
+      "label": "Oportunidad"
+    },
+    {
+      "id": "ganancias",
+      "label": "Ingresos y comisiones"
+    },
+    {
+      "id": "testimonios",
+      "label": "Asesores"
+    },
+    {
+      "id": "ruta",
+      "label": "Ruta de inicio"
+    },
+    {
+      "id": "beneficios",
+      "label": "Beneficios"
+    },
+    {
+      "id": "arennea",
+      "label": "Proyecto Arennea"
+    },
+    {
+      "id": "comunidad",
+      "label": "Comunidad y oficinas"
+    },
+    {
+      "id": "faq",
+      "label": "Perfil y preguntas frecuentes"
+    },
+    {
+      "id": "contacto",
+      "label": "Entrevista final"
+    }
+  ],
+  "buttons": [
+    {
+      "id": "menu",
+      "label": "Menú · Quiero ser asesor"
+    },
+    {
+      "id": "inicio",
+      "label": "Inicio · Agenda tu entrevista"
+    },
+    {
+      "id": "final",
+      "label": "Cierre · Agenda tu entrevista"
+    },
+    {
+      "id": "flotante",
+      "label": "Botón flotante"
+    },
+    {
+      "id": "ganancias",
+      "label": "Ganancias · Agenda tu reunión"
+    }
+  ]
+}

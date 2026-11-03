@@ -1,0 +1,1690 @@
+[
+  {
+    "id": "v4-copy-001",
+    "group": "HOME",
+    "label": "Título de la pestaña",
+    "default": "Reclutamiento · Arennea y Marnez",
+    "kind": "title",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-002",
+    "group": "HOME",
+    "label": "Descripción para buscadores",
+    "default": "Crece como asesor inmobiliario con Marnez y Arennea. Capacitación, acompañamiento e ingresos por resultados. Agenda tu entrevista.",
+    "kind": "meta",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-003",
+    "group": "HOME",
+    "label": "Imagen: Marnez Desarrollos",
+    "default": "Marnez Desarrollos",
+    "kind": "alt",
+    "block": "Fotografías · descripción"
+  },
+  {
+    "id": "v4-copy-004",
+    "group": "HOME",
+    "label": "Menú",
+    "default": "Menú",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-005",
+    "group": "HOME",
+    "label": "Cuánto ganas",
+    "default": "Cómo ganas",
+    "kind": "text",
+    "block": "Navegación"
+  },
+  {
+    "id": "v4-copy-006",
+    "group": "HOME",
+    "label": "Cómo empiezas",
+    "default": "Marnez",
+    "kind": "text",
+    "block": "Navegación"
+  },
+  {
+    "id": "v4-copy-007",
+    "group": "HOME",
+    "label": "Asesores",
+    "default": "Inicio",
+    "kind": "text",
+    "block": "Navegación"
+  },
+  {
+    "id": "v4-copy-008",
+    "group": "HOME",
+    "label": "Arennea",
+    "default": "Arennea",
+    "kind": "text",
+    "block": "Navegación"
+  },
+  {
+    "id": "v4-copy-009",
+    "group": "HOME",
+    "label": "Preguntas",
+    "default": "Contacto",
+    "kind": "text",
+    "block": "Navegación"
+  },
+  {
+    "id": "v4-copy-010",
+    "group": "HOME",
+    "label": "Quiero ser asesor",
+    "default": "Quiero ser asesor",
+    "kind": "text",
+    "block": "Botones y enlaces"
+  },
+  {
+    "id": "v4-copy-011",
+    "group": "HOME",
+    "label": "Reclutando asesores comerciales · Mérida",
+    "default": "Reclutando asesores comerciales · Mérida",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-012",
+    "group": "HOME",
+    "label": "Vende terrenos cerca de la playa.",
+    "default": "Vende terrenos cerca de la playa. ",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-013",
+    "group": "HOME",
+    "label": "Gana por cada venta.",
+    "default": "Gana por cada venta.",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-014",
+    "group": "HOME",
+    "label": "Te enseñamos desde cero: producto, venta consultiva y prospección. Tú pones las ganas",
+    "default": "Te enseñamos desde cero: producto, venta consultiva y prospección. Tú pones las ganas; nosotros la estructura, el coach y las oficinas.",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-015",
+    "group": "HOME",
+    "label": "Agenda tu entrevista",
+    "default": "Agenda tu entrevista ",
+    "kind": "text",
+    "block": "Botones y enlaces"
+  },
+  {
+    "id": "v4-copy-016",
+    "group": "HOME",
+    "label": "Tú eliges hora y día. 20 minutos de entrevista.",
+    "default": "Tú eliges hora y día. 20 minutos de entrevista.",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-017",
+    "group": "HOME",
+    "label": "Imagen: Comunidad Marnez",
+    "default": "Comunidad Marnez",
+    "kind": "alt",
+    "block": "Fotografías · descripción"
+  },
+  {
+    "id": "v4-copy-018",
+    "group": "HOME",
+    "label": "Imagen: Arleen, asesora Marnez",
+    "default": "Arleen, asesora Marnez",
+    "kind": "alt",
+    "block": "Fotografías · descripción"
+  },
+  {
+    "id": "v4-copy-019",
+    "group": "HOME",
+    "label": "“Aquí encuentro el acompañamiento para aprender y crecer como asesor.”",
+    "default": "“Aquí encuentro el acompañamiento para aprender y crecer como asesor.”",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-020",
+    "group": "HOME",
+    "label": "Arleen · Asesora Marnez",
+    "default": "Arleen · Asesora Marnez",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-021",
+    "group": "HOME",
+    "label": "Experiencia que te respalda",
+    "default": "Experiencia que te respalda",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-022",
+    "group": "HOME",
+    "label": "+671,300.4",
+    "default": "+671,300.4",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-023",
+    "group": "HOME",
+    "label": "m² vendidos en Yucatán",
+    "default": "m² vendidos en Yucatán",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-024",
+    "group": "HOME",
+    "label": "+2,835",
+    "default": "+2,835",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-025",
+    "group": "HOME",
+    "label": "clientes que confían",
+    "default": "clientes que confían",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-026",
+    "group": "HOME",
+    "label": "+6",
+    "default": "+6",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-027",
+    "group": "HOME",
+    "label": "años en el mercado",
+    "default": "años en el mercado",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-028",
+    "group": "HOME",
+    "label": "+73",
+    "default": "+73",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-029",
+    "group": "HOME",
+    "label": "alianzas",
+    "default": "alianzas",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-030",
+    "group": "Oportunidad",
+    "label": "Seamos honestos",
+    "default": "Seamos honestos",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-031",
+    "group": "Oportunidad",
+    "label": "Tal vez no buscas trabajar más. Buscas que tu esfuerzo por fin rinda.",
+    "default": "Tal vez no buscas trabajar más. Buscas que tu esfuerzo por fin rinda.",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-032",
+    "group": "Oportunidad",
+    "label": "Si das más, quieres ganar más. Si eres bueno con la gente, quieres que eso cuente. Aq",
+    "default": "Si das más, quieres ganar más. Si eres bueno con la gente, quieres que eso cuente. Aquí sí cuenta.",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-033",
+    "group": "Oportunidad",
+    "label": "Hoy",
+    "default": "Hoy",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-034",
+    "group": "Oportunidad",
+    "label": "Un sueldo que no cambia aunque des el doble",
+    "default": "Un sueldo que no cambia aunque des el doble",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-035",
+    "group": "Oportunidad",
+    "label": "Con Marnez",
+    "default": "Con Marnez",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-036",
+    "group": "Oportunidad",
+    "label": "Un ingreso que crece con cada venta que cierras",
+    "default": "Un ingreso que crece con cada venta que cierras",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-037",
+    "group": "Oportunidad",
+    "label": "Hoy",
+    "default": "Hoy",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-038",
+    "group": "Oportunidad",
+    "label": "Un horario que alguien más decide por ti",
+    "default": "Un horario que alguien más decide por ti",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-039",
+    "group": "Oportunidad",
+    "label": "Con Marnez",
+    "default": "Con Marnez",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-040",
+    "group": "Oportunidad",
+    "label": "Tú eliges turno: matutino o vespertino",
+    "default": "Tú eliges turno: matutino o vespertino",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-041",
+    "group": "Oportunidad",
+    "label": "Hoy",
+    "default": "Hoy",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-042",
+    "group": "Oportunidad",
+    "label": "Aprender solo, a prueba y error",
+    "default": "Aprender solo, a prueba y error",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-043",
+    "group": "Oportunidad",
+    "label": "Con Marnez",
+    "default": "Con Marnez",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-044",
+    "group": "Oportunidad",
+    "label": "Un coach a tu lado hasta tus primeras ventas",
+    "default": "Un coach a tu lado hasta tus primeras ventas",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-045",
+    "group": "¿CÓMO?",
+    "label": "Cuánto puedes ganar",
+    "default": "Cuánto puedes ganar",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-046",
+    "group": "¿CÓMO?",
+    "label": "Cada lote que vendes, te paga.",
+    "default": "Cada lote que vendes, te paga.",
+    "kind": "text",
+    "block": "Contenido de la sección",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-047",
+    "group": "¿CÓMO?",
+    "label": "Tu ingreso depende de tus cierres. Por cada venta de Arennea generas una comisión de ",
+    "default": "Tu ingreso depende de tus cierres. Por cada venta de Arennea generas una comisión de $6,300 MXN. Así pueden crecer tus ingresos con tus resultados.",
+    "kind": "text",
+    "block": "Contenido de la sección",
+    "archived": true
+  },
+  {
+    "id": "v4-benefit-1",
+    "group": "¿CÓMO?",
+    "label": "Recibe tus comisiones cada semana.",
+    "default": "Recibe tus comisiones cada semana.",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-benefit-2",
+    "group": "¿CÓMO?",
+    "label": "Cobra tu comisión desde que tu inversionista cubre el 15% de enganche.",
+    "default": "Cobra tu comisión desde que tu inversionista cubre el 15% de enganche.",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-benefit-3",
+    "group": "¿CÓMO?",
+    "label": "Tú eliges tu horario: matutino o vespertino.",
+    "default": "Tú eliges tu horario: matutino o vespertino.",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-benefit-4",
+    "group": "¿CÓMO?",
+    "label": "Impulsa tus resultados con un método de ventas comprobado.",
+    "default": "Impulsa tus resultados con un método de ventas comprobado.",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-061",
+    "group": "¿CÓMO?",
+    "label": "Lote Arennea desde",
+    "default": "Lote Arennea desde",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-062",
+    "group": "¿CÓMO?",
+    "label": "$126,000",
+    "default": "$126,000",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-063",
+    "group": "¿CÓMO?",
+    "label": "Tu comisión por venta",
+    "default": "Tu comisión por venta",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-064",
+    "group": "¿CÓMO?",
+    "label": "$6,300 MXN",
+    "default": "$6,300 MXN",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-065",
+    "group": "¿CÓMO?",
+    "label": "1 venta al mes",
+    "default": "1 venta al mes",
+    "kind": "text",
+    "block": "Contenido de la sección",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-066",
+    "group": "¿CÓMO?",
+    "label": "$6,300 MXN",
+    "default": "$6,300 MXN",
+    "kind": "text",
+    "block": "Contenido de la sección",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-067",
+    "group": "¿CÓMO?",
+    "label": "2 ventas al mes",
+    "default": "2 ventas al mes",
+    "kind": "text",
+    "block": "Contenido de la sección",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-068",
+    "group": "¿CÓMO?",
+    "label": "$12,600 MXN",
+    "default": "$12,600 MXN",
+    "kind": "text",
+    "block": "Contenido de la sección",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-069",
+    "group": "¿CÓMO?",
+    "label": "4 ventas al mes",
+    "default": "4 ventas al mes",
+    "kind": "text",
+    "block": "Contenido de la sección",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-070",
+    "group": "¿CÓMO?",
+    "label": "$25,200 MXN",
+    "default": "$25,200 MXN",
+    "kind": "text",
+    "block": "Contenido de la sección",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-071",
+    "group": "¿CÓMO?",
+    "label": "Ejemplo ilustrativo. Los ingresos dependen del desempeño y resultados de cada asesor;",
+    "default": "Ejemplo ilustrativo. Los ingresos dependen del desempeño y resultados de cada asesor; no son un salario garantizado.",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-072",
+    "group": "MARNEZ",
+    "label": "Ellos empezaron como tú",
+    "default": "Ellos empezaron como tú",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-073",
+    "group": "MARNEZ",
+    "label": "Empieza con ganas. Crece acompañado.",
+    "default": "Empieza con ganas. Crece acompañado.",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-074",
+    "group": "MARNEZ",
+    "label": "Imagen: Asesores Marnez trabajando en equipo",
+    "default": "Asesores Marnez trabajando en equipo",
+    "kind": "alt",
+    "block": "Fotografías · descripción"
+  },
+  {
+    "id": "v4-copy-075",
+    "group": "MARNEZ",
+    "label": "Imagen: Sesión de trabajo del equipo Marnez",
+    "default": "Sesión de trabajo del equipo Marnez",
+    "kind": "alt",
+    "block": "Fotografías · descripción"
+  },
+  {
+    "id": "v4-copy-076",
+    "group": "MARNEZ",
+    "label": "Imagen: Equipo comercial Marnez",
+    "default": "Equipo comercial Marnez",
+    "kind": "alt",
+    "block": "Fotografías · descripción"
+  },
+  {
+    "id": "v4-copy-077",
+    "group": "¿CÓMO?",
+    "label": "Tu ruta",
+    "default": "Tu ruta",
+    "kind": "text",
+    "block": "Ruta del asesor"
+  },
+  {
+    "id": "v4-copy-078",
+    "group": "¿CÓMO?",
+    "label": "De cero a tu primera venta, paso a paso.",
+    "default": "De cero a tu primera venta, paso a paso.",
+    "kind": "text",
+    "block": "Ruta del asesor"
+  },
+  {
+    "id": "v4-copy-079",
+    "group": "¿CÓMO?",
+    "label": "No necesitas experiencia inmobiliaria. Necesitas disposición para aprender y practica",
+    "default": "No necesitas experiencia inmobiliaria. Necesitas disposición para aprender y practicar.",
+    "kind": "text",
+    "block": "Ruta del asesor"
+  },
+  {
+    "id": "v4-copy-080",
+    "group": "¿CÓMO?",
+    "label": "Imagen: Capacitación comercial en equipo",
+    "default": "Capacitación comercial en equipo",
+    "kind": "alt",
+    "block": "Fotografías · descripción"
+  },
+  {
+    "id": "v4-copy-081",
+    "group": "¿CÓMO?",
+    "label": "Semana 1",
+    "default": "Semana 1",
+    "kind": "text",
+    "block": "Ruta del asesor"
+  },
+  {
+    "id": "v4-copy-082",
+    "group": "¿CÓMO?",
+    "label": "1",
+    "default": "1",
+    "kind": "text",
+    "block": "Ruta del asesor"
+  },
+  {
+    "id": "v4-copy-083",
+    "group": "¿CÓMO?",
+    "label": "Capacitación",
+    "default": "Capacitación",
+    "kind": "text",
+    "block": "Ruta del asesor"
+  },
+  {
+    "id": "v4-copy-084",
+    "group": "¿CÓMO?",
+    "label": "Conoces Arennea, el modelo y cómo se vende.",
+    "default": "Conoces Arennea, el modelo y cómo se vende.",
+    "kind": "text",
+    "block": "Ruta del asesor"
+  },
+  {
+    "id": "v4-copy-085",
+    "group": "¿CÓMO?",
+    "label": "Imagen: Coaching individual acompañado",
+    "default": "Coaching individual acompañado",
+    "kind": "alt",
+    "block": "Fotografías · descripción"
+  },
+  {
+    "id": "v4-copy-086",
+    "group": "¿CÓMO?",
+    "label": "Semana 2",
+    "default": "Semana 2",
+    "kind": "text",
+    "block": "Ruta del asesor"
+  },
+  {
+    "id": "v4-copy-087",
+    "group": "¿CÓMO?",
+    "label": "2",
+    "default": "2",
+    "kind": "text",
+    "block": "Ruta del asesor"
+  },
+  {
+    "id": "v4-copy-088",
+    "group": "¿CÓMO?",
+    "label": "Coaching",
+    "default": "Coaching",
+    "kind": "text",
+    "block": "Ruta del asesor"
+  },
+  {
+    "id": "v4-copy-089",
+    "group": "¿CÓMO?",
+    "label": "Tu coach te acompaña en tus primeras citas.",
+    "default": "Tu coach te acompaña en tus primeras citas.",
+    "kind": "text",
+    "block": "Ruta del asesor"
+  },
+  {
+    "id": "v4-copy-090",
+    "group": "¿CÓMO?",
+    "label": "Imagen: Imagen ilustrativa: presentación de un proyecto a clientes",
+    "default": "Imagen ilustrativa: presentación de un proyecto a clientes",
+    "kind": "alt",
+    "block": "Fotografías · descripción"
+  },
+  {
+    "id": "v4-copy-091",
+    "group": "¿CÓMO?",
+    "label": "Semanas 3–4",
+    "default": "Semanas 3–4",
+    "kind": "text",
+    "block": "Ruta del asesor"
+  },
+  {
+    "id": "v4-copy-092",
+    "group": "¿CÓMO?",
+    "label": "3",
+    "default": "3",
+    "kind": "text",
+    "block": "Ruta del asesor"
+  },
+  {
+    "id": "v4-copy-093",
+    "group": "¿CÓMO?",
+    "label": "Práctica",
+    "default": "Práctica",
+    "kind": "text",
+    "block": "Ruta del asesor"
+  },
+  {
+    "id": "v4-copy-094",
+    "group": "¿CÓMO?",
+    "label": "Presentas el proyecto con clientes reales.",
+    "default": "Presentas el proyecto con clientes reales.",
+    "kind": "text",
+    "block": "Ruta del asesor"
+  },
+  {
+    "id": "v4-copy-095",
+    "group": "¿CÓMO?",
+    "label": "Imagen: Imagen ilustrativa: prospección telefónica y digital",
+    "default": "Imagen ilustrativa: prospección telefónica y digital",
+    "kind": "alt",
+    "block": "Fotografías · descripción"
+  },
+  {
+    "id": "v4-copy-096",
+    "group": "¿CÓMO?",
+    "label": "Mes 2",
+    "default": "Mes 2",
+    "kind": "text",
+    "block": "Ruta del asesor"
+  },
+  {
+    "id": "v4-copy-097",
+    "group": "¿CÓMO?",
+    "label": "4",
+    "default": "4",
+    "kind": "text",
+    "block": "Ruta del asesor"
+  },
+  {
+    "id": "v4-copy-098",
+    "group": "¿CÓMO?",
+    "label": "Prospección",
+    "default": "Prospección",
+    "kind": "text",
+    "block": "Ruta del asesor"
+  },
+  {
+    "id": "v4-copy-099",
+    "group": "¿CÓMO?",
+    "label": "Generas tus propios clientes",
+    "default": "Generas tus propios clientes",
+    "kind": "text",
+    "block": "Ruta del asesor"
+  },
+  {
+    "id": "v4-copy-100",
+    "group": "¿CÓMO?",
+    "label": "Imagen: Imagen ilustrativa: celebración de una primera venta",
+    "default": "Imagen ilustrativa: celebración de una primera venta",
+    "kind": "alt",
+    "block": "Fotografías · descripción"
+  },
+  {
+    "id": "v4-copy-101",
+    "group": "¿CÓMO?",
+    "label": "Meta",
+    "default": "Meta",
+    "kind": "text",
+    "block": "Ruta del asesor"
+  },
+  {
+    "id": "v4-copy-102",
+    "group": "¿CÓMO?",
+    "label": "5",
+    "default": "5",
+    "kind": "text",
+    "block": "Ruta del asesor"
+  },
+  {
+    "id": "v4-copy-103",
+    "group": "¿CÓMO?",
+    "label": "Tu primera venta",
+    "default": "Tu primera venta",
+    "kind": "text",
+    "block": "Ruta del asesor"
+  },
+  {
+    "id": "v4-copy-104",
+    "group": "¿CÓMO?",
+    "label": "Y la siguiente. Aquí empieza tu ingreso.",
+    "default": "Y la siguiente. Aquí empieza tu ingreso.",
+    "kind": "text",
+    "block": "Ruta del asesor"
+  },
+  {
+    "id": "v4-copy-105",
+    "group": "Beneficios",
+    "label": "Autonomía con respaldo",
+    "default": "Autonomía con respaldo",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-106",
+    "group": "Beneficios",
+    "label": "Tú impulsas tu negocio. No lo haces solo.",
+    "default": "Tú impulsas tu negocio. No lo haces solo.",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-107",
+    "group": "Beneficios",
+    "label": "Imagen: Imagen ilustrativa: asesora celebrando sus resultados comerciales",
+    "default": "Imagen ilustrativa: asesora celebrando sus resultados comerciales",
+    "kind": "alt",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-108",
+    "group": "Beneficios",
+    "label": "Ingreso por resultados",
+    "default": "Ingreso por resultados",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-109",
+    "group": "Beneficios",
+    "label": "Mientras más vendes, más ganas.",
+    "default": "Mientras más vendes, más ganas.",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-110",
+    "group": "Beneficios",
+    "label": "Imagen: Asesora organizando su agenda y eligiendo su turno",
+    "default": "Asesora organizando su agenda y eligiendo su turno",
+    "kind": "alt",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-111",
+    "group": "Beneficios",
+    "label": "Tú eliges turno",
+    "default": "Tú eliges turno",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-112",
+    "group": "Beneficios",
+    "label": "Matutino o vespertino, según tu vida.",
+    "default": "Matutino o vespertino, según tu vida.",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-113",
+    "group": "Beneficios",
+    "label": "Imagen: Acompañamiento comercial",
+    "default": "Acompañamiento comercial",
+    "kind": "alt",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-114",
+    "group": "Beneficios",
+    "label": "Coach en tus primeras citas",
+    "default": "Coach en tus primeras citas",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-115",
+    "group": "Beneficios",
+    "label": "Vendes acompañado, sin presión y con método.",
+    "default": "Vendes acompañado, sin presión y con método.",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-116",
+    "group": "UBICACIÓN Y CONTACTO",
+    "label": "Imagen: Oficinas Marnez",
+    "default": "Oficinas Marnez",
+    "kind": "alt",
+    "block": "Fotografías · descripción"
+  },
+  {
+    "id": "v4-copy-117",
+    "group": "Beneficios",
+    "label": "Oficinas y herramientas",
+    "default": "Oficinas y herramientas",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-118",
+    "group": "Beneficios",
+    "label": "Espacio para recibir clientes y material para prospectar.",
+    "default": "Espacio para recibir clientes y material para prospectar.",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-119",
+    "group": "ARENNEA",
+    "label": "Imagen: Acceso de Arennea",
+    "default": "Acceso de Arennea",
+    "kind": "alt",
+    "block": "Fotografías · descripción"
+  },
+  {
+    "id": "v4-copy-120",
+    "group": "ARENNEA",
+    "label": "Imagen: Arennea",
+    "default": "Arennea",
+    "kind": "alt",
+    "block": "Fotografías · descripción"
+  },
+  {
+    "id": "v4-copy-121",
+    "group": "ARENNEA",
+    "label": "Lo que vas a vender",
+    "default": "Lo que vas a vender",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-122",
+    "group": "ARENNEA",
+    "label": "Por qué Arennea se vende fácil.",
+    "default": "Arennea, terrenos cerca de la playa",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-123",
+    "group": "ARENNEA",
+    "label": "$126,000",
+    "default": "$126,000",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-124",
+    "group": "ARENNEA",
+    "label": "Ticket accesible.",
+    "default": "Ticket accesible.",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-125",
+    "group": "ARENNEA",
+    "label": "Más personas pueden comprar, más citas se vuelven cierres.",
+    "default": " Más personas pueden comprar, más citas se vuelven cierres.",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-126",
+    "group": "ARENNEA",
+    "label": "Sin banco",
+    "default": "Sin banco",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-127",
+    "group": "ARENNEA",
+    "label": "Financiamiento propio hasta 42 meses.",
+    "default": "Financiamiento propio hasta 42 meses.",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-128",
+    "group": "ARENNEA",
+    "label": "Tu cliente no depende de un crédito.",
+    "default": " Tu cliente no depende de un crédito.",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-129",
+    "group": "ARENNEA",
+    "label": "$1,000",
+    "default": "$1,000",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-130",
+    "group": "ARENNEA",
+    "label": "Apartado bajo.",
+    "default": "Apartado bajo.",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-131",
+    "group": "ARENNEA",
+    "label": "El enganche del 20% se divide en dos pagos: 15% y 5%.",
+    "default": " El enganche del 20% se divide en dos pagos: 15% y 5%.",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-132",
+    "group": "ARENNEA",
+    "label": "10.5 km",
+    "default": "10.5 km",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-133",
+    "group": "ARENNEA",
+    "label": "De Playa Santa Clara.",
+    "default": "De Playa Santa Clara.",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-134",
+    "group": "ARENNEA",
+    "label": "Una historia que se cuenta sola: lote cerca del mar.",
+    "default": " Una historia que se cuenta sola: lote cerca del mar.",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-135",
+    "group": "ARENNEA",
+    "label": "Imagen: Andadores y áreas verdes",
+    "default": "Andadores y áreas verdes",
+    "kind": "alt",
+    "block": "Fotografías · descripción"
+  },
+  {
+    "id": "v4-copy-136",
+    "group": "ARENNEA",
+    "label": "Andadores y áreas verdes",
+    "default": "Andadores y áreas verdes",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-137",
+    "group": "ARENNEA",
+    "label": "Imagen: Asadores",
+    "default": "Asadores",
+    "kind": "alt",
+    "block": "Fotografías · descripción"
+  },
+  {
+    "id": "v4-copy-138",
+    "group": "ARENNEA",
+    "label": "Asadores",
+    "default": "Asadores",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-139",
+    "group": "ARENNEA",
+    "label": "Imagen: Cancha de usos múltiples",
+    "default": "Cancha de usos múltiples",
+    "kind": "alt",
+    "block": "Fotografías · descripción"
+  },
+  {
+    "id": "v4-copy-140",
+    "group": "ARENNEA",
+    "label": "Cancha de usos múltiples",
+    "default": "Cancha de usos múltiples",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-141",
+    "group": "ARENNEA",
+    "label": "Imagen: Pet Park",
+    "default": "Pet Park",
+    "kind": "alt",
+    "block": "Fotografías · descripción"
+  },
+  {
+    "id": "v4-copy-142",
+    "group": "ARENNEA",
+    "label": "Pet Park",
+    "default": "Pet Park",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-143",
+    "group": "MARNEZ",
+    "label": "Respaldo Marnez",
+    "default": "Respaldo Marnez",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-144",
+    "group": "MARNEZ",
+    "label": "Una empresa que crece con su comunidad. Y contigo.",
+    "default": "Conoce a la comunidad Marnez",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-145",
+    "group": "MARNEZ",
+    "label": "Imagen: Comunidad Marnez",
+    "default": "Comunidad Marnez",
+    "kind": "alt",
+    "block": "Fotografías · descripción"
+  },
+  {
+    "id": "v4-copy-146",
+    "group": "MARNEZ",
+    "label": "Una comunidad que te acompaña",
+    "default": "Una comunidad que te acompaña",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-147",
+    "group": "MARNEZ",
+    "label": "Imagen: Entrega a clientes",
+    "default": "Entrega a clientes",
+    "kind": "alt",
+    "block": "Fotografías · descripción"
+  },
+  {
+    "id": "v4-copy-148",
+    "group": "MARNEZ",
+    "label": "Clientes que reciben lo prometido",
+    "default": "Clientes que reciben lo prometido",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-149",
+    "group": "MARNEZ",
+    "label": "Imagen: Inauguración Marnez",
+    "default": "Inauguración Marnez",
+    "kind": "alt",
+    "block": "Fotografías · descripción"
+  },
+  {
+    "id": "v4-copy-150",
+    "group": "MARNEZ",
+    "label": "Logros que celebramos juntos",
+    "default": "Logros que celebramos juntos",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-151",
+    "group": "UBICACIÓN Y CONTACTO",
+    "label": "Oficinas corporativas Marnez",
+    "default": "Oficinas corporativas Marnez",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-152",
+    "group": "UBICACIÓN Y CONTACTO",
+    "label": "Calle 21 410, Col. Jardines de Mérida, C.P. 97135, Mérida, Yucatán",
+    "default": "Calle 21 410, Col. Jardines de Mérida, C.P. 97135, Mérida, Yucatán",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-153",
+    "group": "UBICACIÓN Y CONTACTO",
+    "label": "Ver en Google Maps",
+    "default": "Ver en Google Maps",
+    "kind": "text",
+    "block": "Botones y enlaces"
+  },
+  {
+    "id": "v4-copy-154",
+    "group": "Perfil y preguntas frecuentes",
+    "label": "¿Es para ti?",
+    "default": "¿Es para ti?",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-155",
+    "group": "Perfil y preguntas frecuentes",
+    "label": "Buscamos a alguien que…",
+    "default": "Buscamos a alguien que…",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-156",
+    "group": "Perfil y preguntas frecuentes",
+    "label": "Disfrute hablar con personas",
+    "default": "Disfrute hablar con personas",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-157",
+    "group": "Perfil y preguntas frecuentes",
+    "label": "Quiera ganar según su esfuerzo",
+    "default": "Quiera ganar según su esfuerzo",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-158",
+    "group": "Perfil y preguntas frecuentes",
+    "label": "Esté dispuesto a aprender y practicar",
+    "default": "Esté dispuesto a aprender y practicar",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-159",
+    "group": "Perfil y preguntas frecuentes",
+    "label": "Tenga disponibilidad de un turno",
+    "default": "Tenga disponibilidad de un turno",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-160",
+    "group": "¿CÓMO?",
+    "label": "Preguntas frecuentes",
+    "default": "Preguntas frecuentes",
+    "kind": "text",
+    "block": "Preguntas frecuentes"
+  },
+  {
+    "id": "v4-copy-161",
+    "group": "Perfil y preguntas frecuentes",
+    "label": "¿Necesito experiencia en bienes raíces?",
+    "default": "¿Necesito experiencia en bienes raíces?",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-162",
+    "group": "Perfil y preguntas frecuentes",
+    "label": "Ver respuesta",
+    "default": "Ver respuesta",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-163",
+    "group": "Perfil y preguntas frecuentes",
+    "label": "No. Te capacitamos en producto, venta consultiva y prospección, y un coach te acompañ",
+    "default": "No. Te capacitamos en producto, venta consultiva y prospección, y un coach te acompaña en tus primeras citas.",
+    "kind": "text",
+    "archived": true
+  },
+  {
+    "id": "v4-copy-164",
+    "group": "¿CÓMO?",
+    "label": "¿Hay sueldo base o es solo comisión?",
+    "default": "¿Hay sueldo base o es solo comisión?",
+    "kind": "text",
+    "block": "Preguntas frecuentes"
+  },
+  {
+    "id": "v4-copy-165",
+    "group": "¿CÓMO?",
+    "label": "Ver respuesta",
+    "default": "Ver respuesta",
+    "kind": "text",
+    "block": "Preguntas frecuentes"
+  },
+  {
+    "id": "v4-copy-166",
+    "group": "¿CÓMO?",
+    "label": "Es 100% comisión. Tú decides cuánto quieres ganar y trabajas por tus metas: mientras ",
+    "default": "Trabajas 100% por comisión. Cada lote vendido genera $6,300 MXN.",
+    "kind": "text",
+    "block": "Preguntas frecuentes"
+  },
+  {
+    "id": "v4-copy-167",
+    "group": "¿CÓMO?",
+    "label": "¿Es de tiempo completo?",
+    "default": "¿Es de tiempo completo?",
+    "kind": "text",
+    "block": "Preguntas frecuentes"
+  },
+  {
+    "id": "v4-copy-168",
+    "group": "¿CÓMO?",
+    "label": "Ver respuesta",
+    "default": "Ver respuesta",
+    "kind": "text",
+    "block": "Preguntas frecuentes"
+  },
+  {
+    "id": "v4-copy-169",
+    "group": "¿CÓMO?",
+    "label": "No. Puedes elegir turno matutino o vespertino y organizar tu día para avanzar hacia t",
+    "default": "Puedes elegir el turno matutino o vespertino y dedicar el resto del día a tus proyectos.",
+    "kind": "text",
+    "block": "Preguntas frecuentes"
+  },
+  {
+    "id": "v4-copy-170",
+    "group": "¿CÓMO?",
+    "label": "¿Necesito auto?",
+    "default": "¿Necesito auto?",
+    "kind": "text",
+    "block": "Preguntas frecuentes"
+  },
+  {
+    "id": "v4-copy-171",
+    "group": "¿CÓMO?",
+    "label": "Ver respuesta",
+    "default": "Ver respuesta",
+    "kind": "text",
+    "block": "Preguntas frecuentes"
+  },
+  {
+    "id": "v4-copy-172",
+    "group": "¿CÓMO?",
+    "label": "No. Solo necesitas un celular, una laptop y disposición para vender. Nosotros te damo",
+    "default": "Solo necesitas celular, laptop y disposición para vender. Tu equipo te acompaña desde la primera cita.",
+    "kind": "text",
+    "block": "Preguntas frecuentes"
+  },
+  {
+    "id": "v4-copy-173",
+    "group": "¿CÓMO?",
+    "label": "¿Tiene algún costo entrar?",
+    "default": "¿Tiene algún costo entrar?",
+    "kind": "text",
+    "block": "Preguntas frecuentes"
+  },
+  {
+    "id": "v4-copy-174",
+    "group": "¿CÓMO?",
+    "label": "Ver respuesta",
+    "default": "Ver respuesta",
+    "kind": "text",
+    "block": "Preguntas frecuentes"
+  },
+  {
+    "id": "v4-copy-175",
+    "group": "¿CÓMO?",
+    "label": "No. En Marnez Desarrollos nunca te vamos a cobrar por incorporarte a nuestro equipo. ",
+    "default": "Ingresar es gratis. Te recibimos con capacitación para que puedas empezar.",
+    "kind": "text",
+    "block": "Preguntas frecuentes"
+  },
+  {
+    "id": "v4-copy-176",
+    "group": "UBICACIÓN Y CONTACTO",
+    "label": "Tu primera venta está a una entrevista de distancia.",
+    "default": "Visita nuestras oficinas en Mérida",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-177",
+    "group": "UBICACIÓN Y CONTACTO",
+    "label": "Conoce al equipo, resuelve tus dudas y descubre tu siguiente oportunidad.",
+    "default": "Conoce al equipo, resuelve tus dudas y descubre tu siguiente oportunidad.",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-178",
+    "group": "UBICACIÓN Y CONTACTO",
+    "label": "Agenda tu entrevista",
+    "default": "Agenda tu reunión",
+    "kind": "text",
+    "block": "Botones y enlaces"
+  },
+  {
+    "id": "v4-copy-179",
+    "group": "UBICACIÓN Y CONTACTO",
+    "label": "Tú eliges hora y día. 20 minutos de entrevista.",
+    "default": "Tú eliges hora y día. 20 minutos de entrevista.",
+    "kind": "text",
+    "block": "Botones y enlaces"
+  },
+  {
+    "id": "v4-copy-180",
+    "group": "UBICACIÓN Y CONTACTO",
+    "label": "Imagen: Marnez Desarrollos",
+    "default": "Marnez Desarrollos",
+    "kind": "alt",
+    "block": "Fotografías · descripción"
+  },
+  {
+    "id": "v4-copy-181",
+    "group": "UBICACIÓN Y CONTACTO",
+    "label": "Imagen: Arennea",
+    "default": "Arennea",
+    "kind": "alt",
+    "block": "Fotografías · descripción"
+  },
+  {
+    "id": "v4-copy-182",
+    "group": "UBICACIÓN Y CONTACTO",
+    "label": "Precios y esquemas sujetos a condiciones vigentes. Potencial de plusvalía sujeto al c",
+    "default": "Precios y esquemas sujetos a condiciones vigentes. Potencial de plusvalía sujeto al comportamiento del mercado y desarrollo de la zona. Ingresos sujetos a desempeño y resultados. Usamos una cookie anónima para medir visitas, clics y recorrido por secciones.",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "v4-copy-183",
+    "group": "UBICACIÓN Y CONTACTO",
+    "label": "Agenda tu entrevista",
+    "default": "Agenda tu reunión",
+    "kind": "text",
+    "block": "Botones y enlaces"
+  },
+  {
+    "id": "cash",
+    "label": "Pago en efectivo",
+    "default": "Si lo necesitas, puedes recibir tu comisión en efectivo.",
+    "kind": "text",
+    "group": "¿CÓMO?",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "btn-como",
+    "label": "Texto del botón · Agenda tu reunión",
+    "default": "Agenda tu reunión",
+    "kind": "text",
+    "group": "¿CÓMO?",
+    "block": "Botones y enlaces"
+  },
+  {
+    "id": "mentoria",
+    "label": "Acompañamiento",
+    "default": "Practica tus presentaciones con el equipo. Tu coordinación te ayuda a preparar las citas, resolver dudas del producto y dar seguimiento a tus prospectos.",
+    "kind": "text",
+    "group": "MARNEZ",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "btn-comunidad",
+    "label": "Texto del botón · Conoce la comunidad que te respalda",
+    "default": "Conoce la comunidad que te respalda",
+    "kind": "text",
+    "group": "MARNEZ",
+    "block": "Botones y enlaces"
+  },
+  {
+    "id": "btn-empresa",
+    "label": "Texto del botón · Conoce nuestra empresa",
+    "default": "Conoce nuestra empresa",
+    "kind": "text",
+    "group": "MARNEZ",
+    "block": "Botones y enlaces"
+  },
+  {
+    "id": "desarrollo",
+    "label": "Características del desarrollo",
+    "default": "En Dzidzantún, Yucatán, Arennea reúne 919 lotes desde 160 m² en ocho etapas. El proyecto contempla 26,000 m² de áreas verdes, dos parques para mascotas, canchas de usos múltiples, asadores, andadores y un área comercial.",
+    "kind": "text",
+    "group": "ARENNEA",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "escritura",
+    "label": "Financiamiento y escrituración",
+    "default": "Las mensualidades comienzan en el segundo mes y el lote se escritura al liquidar.",
+    "kind": "text",
+    "group": "ARENNEA",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "btn-arennea",
+    "label": "Texto del botón · Conoce Arennea",
+    "default": "Conoce Arennea",
+    "kind": "text",
+    "group": "ARENNEA",
+    "block": "Botones y enlaces"
+  },
+  {
+    "id": "btn-facebook",
+    "label": "Texto del botón · Facebook de Marnez",
+    "default": "Facebook de Marnez",
+    "kind": "text",
+    "group": "UBICACIÓN Y CONTACTO",
+    "block": "Botones y enlaces"
+  },
+  {
+    "id": "btn-web",
+    "label": "Texto del botón · Sitio web de Marnez",
+    "default": "Sitio web de Marnez",
+    "kind": "text",
+    "group": "UBICACIÓN Y CONTACTO",
+    "block": "Botones y enlaces"
+  },
+  {
+    "id": "url-0",
+    "kind": "url",
+    "default": "#inicio",
+    "label": "Destino · Inicio",
+    "block": "Botones y enlaces",
+    "group": "HOME"
+  },
+  {
+    "id": "url-1",
+    "kind": "url",
+    "default": "#ganancias",
+    "label": "Destino · Cómo ganas",
+    "block": "Botones y enlaces",
+    "group": "HOME"
+  },
+  {
+    "id": "url-2",
+    "kind": "url",
+    "default": "#comunidad",
+    "label": "Destino · Marnez",
+    "block": "Botones y enlaces",
+    "group": "HOME"
+  },
+  {
+    "id": "url-3",
+    "kind": "url",
+    "default": "#arennea",
+    "label": "Destino · Arennea",
+    "block": "Botones y enlaces",
+    "group": "HOME"
+  },
+  {
+    "id": "url-4",
+    "kind": "url",
+    "default": "#contacto",
+    "label": "Destino · Contacto",
+    "block": "Botones y enlaces",
+    "group": "HOME"
+  },
+  {
+    "id": "url-menu",
+    "kind": "url",
+    "default": "https://calendly.com/d/dvv8-h2z-jv6/asesor-comercial-inmobiliario",
+    "label": "Destino · Quiero ser asesor",
+    "block": "Botones y enlaces",
+    "group": "HOME"
+  },
+  {
+    "id": "url-inicio",
+    "kind": "url",
+    "default": "https://calendly.com/d/dvv8-h2z-jv6/asesor-comercial-inmobiliario",
+    "label": "Destino · Agenda tu entrevista",
+    "block": "Botones y enlaces",
+    "group": "HOME"
+  },
+  {
+    "id": "url-ganancias",
+    "kind": "url",
+    "default": "https://calendly.com/d/dvv8-h2z-jv6/asesor-comercial-inmobiliario",
+    "label": "Destino · Agenda tu reunión",
+    "block": "Botones y enlaces",
+    "group": "¿CÓMO?"
+  },
+  {
+    "id": "url-8",
+    "kind": "url",
+    "default": "https://www.facebook.com/marnezdesarrollos",
+    "label": "Destino · Conoce la comunidad que te respalda",
+    "block": "Botones y enlaces",
+    "group": "MARNEZ"
+  },
+  {
+    "id": "url-9",
+    "kind": "url",
+    "default": "https://marnez.mx/",
+    "label": "Destino · Conoce nuestra empresa",
+    "block": "Botones y enlaces",
+    "group": "MARNEZ"
+  },
+  {
+    "id": "url-10",
+    "kind": "url",
+    "default": "https://marnez.mx/arennea/",
+    "label": "Destino · Conoce Arennea",
+    "block": "Botones y enlaces",
+    "group": "ARENNEA"
+  },
+  {
+    "id": "url-11",
+    "kind": "url",
+    "default": "https://maps.app.goo.gl/y6nV14C4w3LRRnhK8",
+    "label": "Destino · Ver en Google Maps",
+    "block": "Botones y enlaces",
+    "group": "UBICACIÓN Y CONTACTO"
+  },
+  {
+    "id": "url-final",
+    "kind": "url",
+    "default": "https://calendly.com/d/dvv8-h2z-jv6/asesor-comercial-inmobiliario",
+    "label": "Destino · Agenda tu reunión",
+    "block": "Botones y enlaces",
+    "group": "UBICACIÓN Y CONTACTO"
+  },
+  {
+    "id": "url-13",
+    "kind": "url",
+    "default": "https://www.facebook.com/marnezdesarrollos",
+    "label": "Destino · Facebook de Marnez",
+    "block": "Botones y enlaces",
+    "group": "UBICACIÓN Y CONTACTO"
+  },
+  {
+    "id": "url-14",
+    "kind": "url",
+    "default": "https://marnez.mx/",
+    "label": "Destino · Sitio web de Marnez",
+    "block": "Botones y enlaces",
+    "group": "UBICACIÓN Y CONTACTO"
+  },
+  {
+    "id": "url-flotante",
+    "kind": "url",
+    "default": "https://calendly.com/d/dvv8-h2z-jv6/asesor-comercial-inmobiliario",
+    "label": "Destino · Agenda tu reunión→",
+    "block": "Botones y enlaces",
+    "group": "UBICACIÓN Y CONTACTO"
+  },
+  {
+    "id": "url-mapa",
+    "kind": "map",
+    "default": "https://maps.google.com/maps?q=Calle+21+410+Jardines+de+Merida+Yucatan&output=embed",
+    "label": "Mapa insertado · URL de Google Maps",
+    "block": "Botones y enlaces",
+    "group": "UBICACIÓN Y CONTACTO"
+  },
+  {
+    "id": "manual-v4-copy-046",
+    "group": "¿CÓMO?",
+    "label": "Cada lote que vendes, te paga.",
+    "default": "Genera ingresos sin límites",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "manual-v4-copy-047",
+    "group": "¿CÓMO?",
+    "label": "Tu ingreso depende de tus cierres. Por cada venta de Arennea generas una comisión de ",
+    "default": "3 días presenciales a la semana. 4 horas al día",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "manual-v4-copy-065",
+    "group": "¿CÓMO?",
+    "label": "1 venta al mes",
+    "default": "3 lotes",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "manual-v4-copy-066",
+    "group": "¿CÓMO?",
+    "label": "$6,300 MXN",
+    "default": "$18,900 MXN",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "manual-v4-copy-067",
+    "group": "¿CÓMO?",
+    "label": "2 ventas al mes",
+    "default": "4 lotes",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "manual-v4-copy-068",
+    "group": "¿CÓMO?",
+    "label": "$12,600 MXN",
+    "default": "$25,200 MXN",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "manual-v4-copy-069",
+    "group": "¿CÓMO?",
+    "label": "4 ventas al mes",
+    "default": "5 lotes",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "manual-v4-copy-070",
+    "group": "¿CÓMO?",
+    "label": "$25,200 MXN",
+    "default": "$31,500 MXN",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "projection-label",
+    "group": "¿CÓMO?",
+    "block": "Contenido de la sección",
+    "kind": "text",
+    "label": "Selector de lotes",
+    "default": "Elige cuántos lotes venderías"
+  }
+]

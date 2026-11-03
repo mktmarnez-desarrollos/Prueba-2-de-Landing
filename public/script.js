@@ -18,10 +18,3 @@ function bookingClick(e){if(e.type==='auxclick'&&e.button!==1)return;const a=e.t
 document.addEventListener('click',bookingClick);document.addEventListener('auxclick',bookingClick);
 document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='hidden')flushJourney('hidden');else{observeJourney();queueJourney()}});window.addEventListener('pagehide',()=>flushJourney('pagehide'));window.addEventListener('pageshow',()=>{observeJourney();queueJourney()});floatingState();queueJourney();
 
-const lotSelector=document.getElementById('lots');
-function updateProjection(){
- const valueIds={'3':'manual-v4-copy-066','4':'manual-v4-copy-068','5':'manual-v4-copy-070'};
- document.getElementById('projection-total').value=document.querySelector('[data-copy="'+valueIds[lotSelector.value]+'"]').textContent;
-}
-lotSelector.addEventListener('change',updateProjection);
-updateProjection();

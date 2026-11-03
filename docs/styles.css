@@ -28,3 +28,36 @@ site-copy{display:contents}body{overflow-x:clip}.arleen-portrait{background-imag
 .actions{display:flex;flex-wrap:wrap;gap:14px}.action{align-self:flex-start;display:inline-flex;align-items:center;justify-content:center;background:#f2b544;color:#0c2740;padding:16px 24px;border-radius:12px;font:700 16px Inter,system-ui;text-decoration:none}.action:hover{background:#ffd581}.office-grid{width:100%;display:grid;grid-template-columns:1fr 1fr;gap:16px}.office-grid>*{display:block;width:100%;height:300px;object-fit:cover;border:0;border-radius:16px}#ganancias #faq>div{display:block!important}#faq details{max-width:850px}#arennea>div>p,#comunidad p{font-size:18px;line-height:1.55;margin:0}section{scroll-margin-top:80px}#contacto footer{padding-bottom:75px}
 @media(max-width:700px){.office-grid{grid-template-columns:1fr}.office-grid>*{height:220px}.actions,.action{width:100%;box-sizing:border-box}.actions>a{flex:1 1 100%}#ganancias>div:first-child{padding:52px 18px!important;gap:28px!important}#ganancias>div:first-child>div:last-child{padding:22px!important}#ganancias #ruta>div,#ganancias #faq>div{padding:48px 20px!important}#contacto footer{padding-bottom:96px}}
 .projection{display:grid;grid-template-columns:auto 1fr;align-items:center;gap:12px;padding:16px;border-radius:14px;background:#193952}.projection label{grid-column:1/-1;font-weight:600}.projection select{padding:10px 14px;border-radius:8px;font:inherit}.projection output{font:700 clamp(18px,2vw,26px) Sora,system-ui;color:#f2b544}
+
+/* Título con jornada incluida */
+.title-accent{display:block;color:#8A5A12}
+/* Arennea · ficha del desarrollo */
+.arennea-facts{background:#0C2740;color:#fff;border-radius:24px;padding:40px;display:flex;flex-direction:column;gap:28px;box-shadow:0 24px 60px rgba(12,39,64,.18)}
+.facts-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
+.fact{background:#132F4C;border-radius:16px;padding:22px 20px;display:flex;flex-direction:column;gap:6px}
+.fact strong{font-family:Sora,sans-serif;font-size:clamp(26px,3vw,34px);line-height:1.1;color:#F2B544;font-variant-numeric:tabular-nums}
+.fact span{font-size:15px;color:#B9C6D3}
+.facts-body{display:flex;flex-direction:column;gap:18px}
+.facts-lead{margin:0;font-size:18px;line-height:1.6;color:#DCE5EE;max-width:900px}
+.facts-note{margin:0;display:flex;gap:14px;align-items:center;background:#17385A;border-left:4px solid #F2B544;border-radius:12px;padding:16px 20px;font-size:16px;line-height:1.5;color:#fff}
+.facts-note svg{flex:none;color:#F2B544}
+.facts-cta{display:flex;justify-content:center;padding-top:8px}
+.facts-cta .action{align-self:center}
+/* Contacto */
+.address-card{display:flex;justify-content:center;width:100%;background:#17385A;border-radius:20px;padding:26px 32px}
+/* Cierre de comunidad bajo las preguntas frecuentes */
+#faq>div{align-items:stretch!important}
+#faq details{border-bottom-color:#DDD2BE}
+.community-card{flex:1 1 100%;display:grid;grid-template-columns:1.3fr 1fr;background:linear-gradient(135deg,#0C2740 0%,#17385A 100%);color:#fff;border-radius:28px;overflow:hidden;box-shadow:0 24px 60px rgba(12,39,64,.22);margin-top:24px}
+.community-copy{padding:52px 40px 52px 48px;display:flex;flex-direction:column;gap:18px;justify-content:center}
+.community-copy .eyebrow{margin:0}
+.community-copy h2{margin:0;font-family:Sora,sans-serif;font-size:clamp(28px,3.4vw,40px);line-height:1.12;letter-spacing:-.01em;color:#fff}
+.community-text{margin:0;font-size:18px;line-height:1.6;color:#C9D6E3;max-width:520px}
+.community-copy .actions{margin-top:8px}
+.action-ghost{background:transparent;color:#fff;border:1.5px solid #4D6C8A}
+.action-ghost:hover{background:rgba(255,255,255,.1);color:#fff}
+.community-photo{min-height:320px;position:relative}
+.community-photo img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+@media(max-width:900px){.facts-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.community-card{grid-template-columns:1fr}.community-photo{min-height:240px;order:-1}}
+@media(max-width:700px){.arennea-facts{padding:26px 20px;border-radius:20px}.facts-lead{font-size:16px}.community-copy{padding:32px 22px}.address-card{padding:22px 20px}.facts-cta .action{width:100%}.fact{padding:18px 16px}.fact strong{font-size:22px;white-space:nowrap}}
+.action{text-align:center}

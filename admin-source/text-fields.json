@@ -106,8 +106,8 @@
   {
     "id": "v4-copy-014",
     "group": "HOME",
-    "label": "Te enseñamos desde cero: producto, venta consultiva y prospección. Tú pones las ganas",
-    "default": "Te enseñamos desde cero: producto, venta consultiva y prospección. Tú pones las ganas; nosotros la estructura, el coach y las oficinas.",
+    "label": "Te enseñamos desde cero: producto, venta y prospección. Tú pones las ganas",
+    "default": "Te enseñamos desde cero: producto, venta y prospección. Tú pones las ganas; nosotros la estructura, el coach y las oficinas.",
     "kind": "text",
     "block": "Contenido de la sección"
   },
@@ -357,7 +357,8 @@
     "label": "Cuánto puedes ganar",
     "default": "Cuánto puedes ganar",
     "kind": "text",
-    "block": "Contenido de la sección"
+    "block": "Contenido de la sección",
+    "archived": true
   },
   {
     "id": "v4-copy-046",
@@ -383,7 +384,8 @@
     "label": "Recibe tus comisiones cada semana.",
     "default": "Recibe tus comisiones cada semana.",
     "kind": "text",
-    "block": "Contenido de la sección"
+    "block": "Contenido de la sección",
+    "archived": true
   },
   {
     "id": "v4-benefit-2",
@@ -391,7 +393,8 @@
     "label": "Cobra tu comisión desde que tu inversionista cubre el 15% de enganche.",
     "default": "Cobra tu comisión desde que tu inversionista cubre el 15% de enganche.",
     "kind": "text",
-    "block": "Contenido de la sección"
+    "block": "Contenido de la sección",
+    "archived": true
   },
   {
     "id": "v4-benefit-3",
@@ -399,7 +402,8 @@
     "label": "Tú eliges tu horario: matutino o vespertino.",
     "default": "Tú eliges tu horario: matutino o vespertino.",
     "kind": "text",
-    "block": "Contenido de la sección"
+    "block": "Contenido de la sección",
+    "archived": true
   },
   {
     "id": "v4-benefit-4",
@@ -407,7 +411,8 @@
     "label": "Impulsa tus resultados con un método de ventas comprobado.",
     "default": "Impulsa tus resultados con un método de ventas comprobado.",
     "kind": "text",
-    "block": "Contenido de la sección"
+    "block": "Contenido de la sección",
+    "archived": true
   },
   {
     "id": "v4-copy-061",
@@ -581,7 +586,8 @@
     "label": "Semana 1",
     "default": "Semana 1",
     "kind": "text",
-    "block": "Ruta del asesor"
+    "block": "Ruta del asesor",
+    "archived": true
   },
   {
     "id": "v4-copy-082",
@@ -621,7 +627,8 @@
     "label": "Semana 2",
     "default": "Semana 2",
     "kind": "text",
-    "block": "Ruta del asesor"
+    "block": "Ruta del asesor",
+    "archived": true
   },
   {
     "id": "v4-copy-087",
@@ -661,7 +668,8 @@
     "label": "Semanas 3–4",
     "default": "Semanas 3–4",
     "kind": "text",
-    "block": "Ruta del asesor"
+    "block": "Ruta del asesor",
+    "archived": true
   },
   {
     "id": "v4-copy-092",
@@ -701,7 +709,8 @@
     "label": "Mes 2",
     "default": "Mes 2",
     "kind": "text",
-    "block": "Ruta del asesor"
+    "block": "Ruta del asesor",
+    "archived": true
   },
   {
     "id": "v4-copy-097",
@@ -1157,7 +1166,8 @@
     "label": "Ver en Google Maps",
     "default": "Ver en Google Maps",
     "kind": "text",
-    "block": "Botones y enlaces"
+    "block": "Botones y enlaces",
+    "archived": true
   },
   {
     "id": "v4-copy-154",
@@ -1209,7 +1219,7 @@
   },
   {
     "id": "v4-copy-160",
-    "group": "¿CÓMO?",
+    "group": "UBICACIÓN Y CONTACTO",
     "label": "Preguntas frecuentes",
     "default": "Preguntas frecuentes",
     "kind": "text",
@@ -1234,14 +1244,14 @@
   {
     "id": "v4-copy-163",
     "group": "Perfil y preguntas frecuentes",
-    "label": "No. Te capacitamos en producto, venta consultiva y prospección, y un coach te acompañ",
-    "default": "No. Te capacitamos en producto, venta consultiva y prospección, y un coach te acompaña en tus primeras citas.",
+    "label": "No. Te capacitamos en producto, venta y prospección, y un coach te acompañ",
+    "default": "No. Te capacitamos en producto, venta y prospección, y un coach te acompaña en tus primeras citas.",
     "kind": "text",
     "archived": true
   },
   {
     "id": "v4-copy-164",
-    "group": "¿CÓMO?",
+    "group": "UBICACIÓN Y CONTACTO",
     "label": "¿Hay sueldo base o es solo comisión?",
     "default": "¿Hay sueldo base o es solo comisión?",
     "kind": "text",
@@ -1249,7 +1259,7 @@
   },
   {
     "id": "v4-copy-165",
-    "group": "¿CÓMO?",
+    "group": "UBICACIÓN Y CONTACTO",
     "label": "Ver respuesta",
     "default": "Ver respuesta",
     "kind": "text",
@@ -1257,15 +1267,15 @@
   },
   {
     "id": "v4-copy-166",
-    "group": "¿CÓMO?",
+    "group": "UBICACIÓN Y CONTACTO",
     "label": "Es 100% comisión. Tú decides cuánto quieres ganar y trabajas por tus metas: mientras ",
-    "default": "Trabajas 100% por comisión. Cada lote vendido genera $6,300 MXN.",
+    "default": "Trabajas 100% por comisión. Recibes $6,300 MXN por lote, con pago semanal una vez que el cliente cubre el 15% de enganche. Puedes solicitar el pago en efectivo.",
     "kind": "text",
     "block": "Preguntas frecuentes"
   },
   {
     "id": "v4-copy-167",
-    "group": "¿CÓMO?",
+    "group": "UBICACIÓN Y CONTACTO",
     "label": "¿Es de tiempo completo?",
     "default": "¿Es de tiempo completo?",
     "kind": "text",
@@ -1273,7 +1283,7 @@
   },
   {
     "id": "v4-copy-168",
-    "group": "¿CÓMO?",
+    "group": "UBICACIÓN Y CONTACTO",
     "label": "Ver respuesta",
     "default": "Ver respuesta",
     "kind": "text",
@@ -1281,7 +1291,7 @@
   },
   {
     "id": "v4-copy-169",
-    "group": "¿CÓMO?",
+    "group": "UBICACIÓN Y CONTACTO",
     "label": "No. Puedes elegir turno matutino o vespertino y organizar tu día para avanzar hacia t",
     "default": "Puedes elegir el turno matutino o vespertino y dedicar el resto del día a tus proyectos.",
     "kind": "text",
@@ -1289,7 +1299,7 @@
   },
   {
     "id": "v4-copy-170",
-    "group": "¿CÓMO?",
+    "group": "UBICACIÓN Y CONTACTO",
     "label": "¿Necesito auto?",
     "default": "¿Necesito auto?",
     "kind": "text",
@@ -1297,7 +1307,7 @@
   },
   {
     "id": "v4-copy-171",
-    "group": "¿CÓMO?",
+    "group": "UBICACIÓN Y CONTACTO",
     "label": "Ver respuesta",
     "default": "Ver respuesta",
     "kind": "text",
@@ -1305,7 +1315,7 @@
   },
   {
     "id": "v4-copy-172",
-    "group": "¿CÓMO?",
+    "group": "UBICACIÓN Y CONTACTO",
     "label": "No. Solo necesitas un celular, una laptop y disposición para vender. Nosotros te damo",
     "default": "Solo necesitas celular, laptop y disposición para vender. Tu equipo te acompaña desde la primera cita.",
     "kind": "text",
@@ -1313,7 +1323,7 @@
   },
   {
     "id": "v4-copy-173",
-    "group": "¿CÓMO?",
+    "group": "UBICACIÓN Y CONTACTO",
     "label": "¿Tiene algún costo entrar?",
     "default": "¿Tiene algún costo entrar?",
     "kind": "text",
@@ -1321,7 +1331,7 @@
   },
   {
     "id": "v4-copy-174",
-    "group": "¿CÓMO?",
+    "group": "UBICACIÓN Y CONTACTO",
     "label": "Ver respuesta",
     "default": "Ver respuesta",
     "kind": "text",
@@ -1329,7 +1339,7 @@
   },
   {
     "id": "v4-copy-175",
-    "group": "¿CÓMO?",
+    "group": "UBICACIÓN Y CONTACTO",
     "label": "No. En Marnez Desarrollos nunca te vamos a cobrar por incorporarte a nuestro equipo. ",
     "default": "Ingresar es gratis. Te recibimos con capacitación para que puedas empezar.",
     "kind": "text",
@@ -1405,7 +1415,8 @@
     "default": "Si lo necesitas, puedes recibir tu comisión en efectivo.",
     "kind": "text",
     "group": "¿CÓMO?",
-    "block": "Contenido de la sección"
+    "block": "Contenido de la sección",
+    "archived": true
   },
   {
     "id": "btn-como",
@@ -1437,7 +1448,8 @@
     "default": "Conoce nuestra empresa",
     "kind": "text",
     "group": "MARNEZ",
-    "block": "Botones y enlaces"
+    "block": "Botones y enlaces",
+    "archived": true
   },
   {
     "id": "desarrollo",
@@ -1456,6 +1468,70 @@
     "block": "Contenido de la sección"
   },
   {
+    "id": "arennea-dato-1",
+    "group": "ARENNEA",
+    "label": "Dato 1 · cifra",
+    "default": "919",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "arennea-dato-1-txt",
+    "group": "ARENNEA",
+    "label": "Dato 1 · descripción",
+    "default": "lotes en total",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "arennea-dato-2",
+    "group": "ARENNEA",
+    "label": "Dato 2 · cifra",
+    "default": "160 m²",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "arennea-dato-2-txt",
+    "group": "ARENNEA",
+    "label": "Dato 2 · descripción",
+    "default": "desde, por lote",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "arennea-dato-3",
+    "group": "ARENNEA",
+    "label": "Dato 3 · cifra",
+    "default": "8",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "arennea-dato-3-txt",
+    "group": "ARENNEA",
+    "label": "Dato 3 · descripción",
+    "default": "etapas de desarrollo",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "arennea-dato-4",
+    "group": "ARENNEA",
+    "label": "Dato 4 · cifra",
+    "default": "26,000 m²",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "arennea-dato-4-txt",
+    "group": "ARENNEA",
+    "label": "Dato 4 · descripción",
+    "default": "de áreas verdes",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
     "id": "btn-arennea",
     "label": "Texto del botón · Conoce Arennea",
     "default": "Conoce Arennea",
@@ -1465,19 +1541,43 @@
   },
   {
     "id": "btn-facebook",
-    "label": "Texto del botón · Facebook de Marnez",
-    "default": "Facebook de Marnez",
+    "label": "Texto del botón · Vive la comunidad Marnez",
+    "default": "Vive la comunidad Marnez",
     "kind": "text",
     "group": "UBICACIÓN Y CONTACTO",
     "block": "Botones y enlaces"
   },
   {
     "id": "btn-web",
-    "label": "Texto del botón · Sitio web de Marnez",
-    "default": "Sitio web de Marnez",
+    "label": "Texto del botón · Descubre el mundo Marnez",
+    "default": "Descubre el mundo Marnez",
     "kind": "text",
     "group": "UBICACIÓN Y CONTACTO",
     "block": "Botones y enlaces"
+  },
+  {
+    "id": "comunidad-cierre-eyebrow",
+    "group": "UBICACIÓN Y CONTACTO",
+    "label": "Cierre de comunidad · etiqueta",
+    "default": "Más que una oficina",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "comunidad-cierre-titulo",
+    "group": "UBICACIÓN Y CONTACTO",
+    "label": "Cierre de comunidad · título",
+    "default": "Tu carrera se construye en persona y en comunidad.",
+    "kind": "text",
+    "block": "Contenido de la sección"
+  },
+  {
+    "id": "comunidad-cierre-texto",
+    "group": "UBICACIÓN Y CONTACTO",
+    "label": "Cierre de comunidad · texto",
+    "default": "Practicamos, resolvemos dudas y celebramos cada cierre juntos. Ven a vivirlo con el equipo Marnez.",
+    "kind": "text",
+    "block": "Contenido de la sección"
   },
   {
     "id": "url-0",
@@ -1557,7 +1657,8 @@
     "default": "https://marnez.mx/",
     "label": "Destino · Conoce nuestra empresa",
     "block": "Botones y enlaces",
-    "group": "MARNEZ"
+    "group": "MARNEZ",
+    "archived": true
   },
   {
     "id": "url-10",
@@ -1573,7 +1674,8 @@
     "default": "https://maps.app.goo.gl/y6nV14C4w3LRRnhK8",
     "label": "Destino · Ver en Google Maps",
     "block": "Botones y enlaces",
-    "group": "UBICACIÓN Y CONTACTO"
+    "group": "UBICACIÓN Y CONTACTO",
+    "archived": true
   },
   {
     "id": "url-final",
@@ -1685,6 +1787,7 @@
     "block": "Contenido de la sección",
     "kind": "text",
     "label": "Selector de lotes",
-    "default": "Elige cuántos lotes venderías"
+    "default": "Elige cuántos lotes venderías",
+    "archived": true
   }
 ]

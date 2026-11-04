@@ -2044,10 +2044,10 @@
   },
   {
     "id": "ref-navbook",
-    "label": "Agenda tu entrevista",
+    "label": "Quiero ser asesor",
     "group": "HOME",
     "block": "Navegación",
-    "default": "Agenda tu entrevista",
+    "default": "Quiero ser asesor",
     "kind": "text"
   },
   {

@@ -62,3 +62,14 @@ header, #contacto{background:#052e40!important}
 
 .advisor-note{display:flex;align-items:center;justify-content:center;gap:12px;margin:16px auto 22px;max-width:600px}.advisor-note img{width:55px;height:55px;object-fit:cover;border-radius:50%}.advisor-note figcaption{font-size:15px;line-height:1.5}.advisor-note small{color:#c9d6e3}
 @media(max-width:700px){.team .facts{grid-template-columns:repeat(2,minmax(0,1fr))}.team .facts>div{min-width:0}.team .facts strong{font-size:clamp(21px,5.7vw,29px)!important}}
+
+/* Comisiones por lote vendido */
+.earn{box-sizing:border-box;width:100%;max-width:400px;justify-self:center;min-width:0;padding:16px clamp(16px,2vw,24px);container-type:inline-size}
+.earn h2{font-size:clamp(19px,7cqw,25px)}
+.earn p{margin:3px 0;font-size:clamp(15px,5.6cqw,19px);line-height:1.2}
+.earn .earn-verb{margin:4px 0 0;font-weight:700;font-size:clamp(19px,7cqw,25px)}
+.earn .rate{font-size:clamp(40px,18cqw,64px);line-height:1}
+.earn ul{padding:2px 0;margin:6px 0 9px}
+.earn li{gap:8px;padding:4px clamp(8px,4cqw,16px);font-size:clamp(17px,6.5cqw,24px);line-height:1.15;font-weight:750}
+.earn li b{font-weight:inherit}
+.earn small{font-size:14px;font-style:italic}

@@ -435,8 +435,8 @@
   {
     "id": "v4-copy-062",
     "group": "HOME",
-    "label": "$126,000",
-    "default": "$126,000",
+    "label": "$126,000 MXN",
+    "default": "$126,000 MXN",
     "kind": "text",
     "block": "Portada"
   },
@@ -452,8 +452,8 @@
   {
     "id": "v4-copy-064",
     "group": "HOME",
-    "label": "$6,300 MXN",
-    "default": "$6,300 MXN",
+    "label": "$6,300",
+    "default": "$6,300",
     "kind": "text",
     "block": "Portada"
   },
@@ -514,8 +514,8 @@
   {
     "id": "v4-copy-071",
     "group": "HOME",
-    "label": "Ejemplo ilustrativo. Los ingresos dependen del desempeño y resultados de cada asesor;",
-    "default": "Ejemplo ilustrativo. Los ingresos dependen del desempeño y resultados de cada asesor; no son un salario garantizado.",
+    "label": "Ejemplo ilustrativo.",
+    "default": "Ejemplo ilustrativo.",
     "kind": "text",
     "block": "Portada"
   },
@@ -1406,7 +1406,7 @@
     "id": "v4-copy-178",
     "group": "UBICACIÓN Y CONTACTO",
     "label": "Agenda tu entrevista",
-    "default": "Agenda tu reunión",
+    "default": "Agenda tu entrevista",
     "kind": "text",
     "block": "Botones y enlaces"
   },
@@ -1446,7 +1446,7 @@
     "id": "v4-copy-183",
     "group": "UBICACIÓN Y CONTACTO",
     "label": "Agenda tu entrevista",
-    "default": "Agenda tu reunión",
+    "default": "Agenda tu entrevista",
     "kind": "text",
     "block": "Botones y enlaces"
   },
@@ -1461,8 +1461,8 @@
   },
   {
     "id": "btn-como",
-    "label": "Texto del botón · Agenda tu reunión",
-    "default": "Agenda tu reunión",
+    "label": "Texto del botón · Agenda tu entrevista",
+    "default": "Agenda tu entrevista",
     "kind": "text",
     "group": "HOME",
     "block": "Portada"
@@ -1686,7 +1686,7 @@
     "id": "url-ganancias",
     "kind": "url",
     "default": "https://calendly.com/d/dvv8-h2z-jv6/asesor-comercial-inmobiliario",
-    "label": "Destino · Agenda tu reunión",
+    "label": "Destino · Agenda tu entrevista",
     "block": "Botones y enlaces",
     "group": "¿CÓMO?",
     "archived": true
@@ -1730,7 +1730,7 @@
     "id": "url-final",
     "kind": "url",
     "default": "https://calendly.com/d/dvv8-h2z-jv6/asesor-comercial-inmobiliario",
-    "label": "Destino · Agenda tu reunión",
+    "label": "Destino · Agenda tu entrevista",
     "block": "Botones y enlaces",
     "group": "UBICACIÓN Y CONTACTO"
   },
@@ -1754,7 +1754,7 @@
     "id": "url-flotante",
     "kind": "url",
     "default": "https://calendly.com/d/dvv8-h2z-jv6/asesor-comercial-inmobiliario",
-    "label": "Destino · Agenda tu reunión→",
+    "label": "Destino · Agenda tu entrevista→",
     "block": "Botones y enlaces",
     "group": "UBICACIÓN Y CONTACTO"
   },
@@ -1787,7 +1787,7 @@
   {
     "id": "manual-v4-copy-065",
     "group": "HOME",
-    "label": "1 venta al mes",
+    "label": "3 lotes",
     "default": "3 lotes",
     "kind": "text",
     "block": "Portada"
@@ -1795,15 +1795,15 @@
   {
     "id": "manual-v4-copy-066",
     "group": "HOME",
-    "label": "$6,300 MXN",
-    "default": "$18,900 MXN",
+    "label": "$18,900",
+    "default": "$18,900",
     "kind": "text",
     "block": "Portada"
   },
   {
     "id": "manual-v4-copy-067",
     "group": "HOME",
-    "label": "2 ventas al mes",
+    "label": "4 lotes",
     "default": "4 lotes",
     "kind": "text",
     "block": "Portada"
@@ -1811,15 +1811,15 @@
   {
     "id": "manual-v4-copy-068",
     "group": "HOME",
-    "label": "$12,600 MXN",
-    "default": "$25,200 MXN",
+    "label": "$25,200",
+    "default": "$25,200",
     "kind": "text",
     "block": "Portada"
   },
   {
     "id": "manual-v4-copy-069",
     "group": "HOME",
-    "label": "4 ventas al mes",
+    "label": "5 lotes",
     "default": "5 lotes",
     "kind": "text",
     "block": "Portada"
@@ -1827,8 +1827,8 @@
   {
     "id": "manual-v4-copy-070",
     "group": "HOME",
-    "label": "$25,200 MXN",
-    "default": "$31,500 MXN",
+    "label": "$31,500",
+    "default": "$31,500",
     "kind": "text",
     "block": "Portada"
   },
@@ -2044,10 +2044,18 @@
   },
   {
     "id": "ref-navbook",
-    "label": "Agenda tu reunión",
+    "label": "Agenda tu entrevista",
     "group": "HOME",
     "block": "Navegación",
-    "default": "Agenda tu reunión",
+    "default": "Agenda tu entrevista",
     "kind": "text"
+  },
+  {
+    "id": "ref-earn-verb",
+    "group": "HOME",
+    "block": "Portada",
+    "kind": "text",
+    "label": "Ganas",
+    "default": "Ganas"
   }
 ]

@@ -150,7 +150,8 @@
     "label": "Imagen: Arleen, asesora Marnez",
     "default": "Arleen, asesora Marnez",
     "kind": "alt",
-    "block": "Testimonio de Arleen"
+    "block": "Testimonio de Arleen",
+    "archived": true
   },
   {
     "id": "v4-copy-019",
@@ -158,7 +159,8 @@
     "label": "“Aquí encuentro el acompañamiento para aprender y crecer como asesor.”",
     "default": "“Aquí encuentro el acompañamiento para aprender y crecer como asesor.”",
     "kind": "text",
-    "block": "Testimonio de Arleen"
+    "block": "Testimonio de Arleen",
+    "archived": true
   },
   {
     "id": "v4-copy-020",
@@ -166,7 +168,8 @@
     "label": "Arleen · Asesora Marnez",
     "default": "Arleen · Asesora Marnez",
     "kind": "text",
-    "block": "Testimonio de Arleen"
+    "block": "Testimonio de Arleen",
+    "archived": true
   },
   {
     "id": "v4-copy-021",
@@ -540,8 +543,8 @@
   {
     "id": "v4-copy-074",
     "group": "MARNEZ",
-    "label": "Imagen: Asesores Marnez trabajando en equipo",
-    "default": "Asesores Marnez trabajando en equipo",
+    "label": "Imagen: Representante de Marnez hablando con micrófono en un evento",
+    "default": "Representante de Marnez hablando con micrófono en un evento",
     "kind": "alt",
     "block": "Fotografías · descripción"
   },
@@ -591,8 +594,8 @@
   {
     "id": "v4-copy-080",
     "group": "¿CÓMO?",
-    "label": "Imagen: Capacitación comercial en equipo",
-    "default": "Capacitación comercial en equipo",
+    "label": "Imagen: Asesor señalando un plano en la televisión durante la capacitación",
+    "default": "Asesor señalando un plano en la televisión durante la capacitación",
     "kind": "alt",
     "block": "Fotografías · descripción"
   },
@@ -635,8 +638,8 @@
   {
     "id": "v4-copy-085",
     "group": "¿CÓMO?",
-    "label": "Imagen: Coaching individual acompañado",
-    "default": "Coaching individual acompañado",
+    "label": "Imagen: Asesora de Marnez sonriendo mientras mira su celular",
+    "default": "Asesora de Marnez sonriendo mientras mira su celular",
     "kind": "alt",
     "block": "Fotografías · descripción"
   },
@@ -1482,7 +1485,8 @@
     "default": "Conoce la comunidad que te respalda",
     "kind": "text",
     "group": "MARNEZ",
-    "block": "Comunidad"
+    "block": "Comunidad",
+    "archived": true
   },
   {
     "id": "btn-empresa",
@@ -1581,7 +1585,8 @@
     "default": "Conoce Arennea",
     "kind": "text",
     "group": "ARENNEA",
-    "block": "Botones y enlaces"
+    "block": "Botones y enlaces",
+    "archived": true
   },
   {
     "id": "btn-facebook",
@@ -1589,7 +1594,8 @@
     "default": "Vive la comunidad Marnez",
     "kind": "text",
     "group": "UBICACIÓN Y CONTACTO",
-    "block": "Botones y enlaces"
+    "block": "Botones y enlaces",
+    "archived": true
   },
   {
     "id": "btn-web",
@@ -1697,7 +1703,8 @@
     "default": "https://www.facebook.com/marnezdesarrollos",
     "label": "Destino · Conoce la comunidad que te respalda",
     "block": "Botones y enlaces",
-    "group": "MARNEZ"
+    "group": "MARNEZ",
+    "archived": true
   },
   {
     "id": "url-9",
@@ -1740,7 +1747,8 @@
     "default": "https://www.facebook.com/marnezdesarrollos",
     "label": "Destino · Facebook de Marnez",
     "block": "Botones y enlaces",
-    "group": "UBICACIÓN Y CONTACTO"
+    "group": "UBICACIÓN Y CONTACTO",
+    "archived": true
   },
   {
     "id": "url-14",
@@ -2024,7 +2032,8 @@
     "default": "https://marnez.mx/arennea/",
     "group": "ARENNEA",
     "block": "Botones y enlaces",
-    "kind": "url"
+    "kind": "url",
+    "archived": true
   },
   {
     "id": "ref-navoffer",

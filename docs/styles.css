@@ -58,7 +58,7 @@ header, #contacto{background:#052e40!important}
 .chips{display:flex;gap:8px;flex-wrap:wrap;margin-top:18px}.chips>span{display:inline-flex;align-items:center;gap:5px;background:#ffffffbf;padding:6px 9px;border-radius:20px;font-size:12px;font-weight:650}.chips svg{width:15px;height:15px}
 .earn{background:#052e40;color:white;padding:clamp(20px,3vw,36px);border-radius:17px;text-align:center;scroll-margin-top:110px}.earn h2{font-size:clamp(21px,2vw,29px)}.earn p{margin:7px 0;font-size:16px}.rate{display:block;font:800 clamp(38px,4vw,60px)/1.1 Sora,system-ui;color:#ffc049;letter-spacing:-.05em}.earn ul{padding:9px 0;margin:16px 0 9px;border-block:1px solid #ffffff60;list-style:none}.earn li{display:flex;align-items:center;justify-content:space-between;padding:8px 12px;font-weight:700}.earn li:nth-child(2){background:#f6b53c;color:#092f40;border-radius:7px}.earn small{color:#cee0e7}
 .concept:not(.cover) h2{font-size:clamp(32px,4vw,52px)}.benefit-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.benefit-grid img,.mosaic img{display:block;width:100%;height:100%;object-fit:cover;border-radius:12px}.benefit-grid img{aspect-ratio:1.65;height:auto}.benefit-grid h3{font-size:clamp(19px,2vw,25px);margin:14px 0 5px}.benefit-grid p{line-height:1.5;margin:0;color:#455c68}
-.team{background:#052e40;color:white}#comunidad .kicker{color:#ffc049}#comunidad .lead{margin:10px 0 20px;color:#d8e7ea}.mosaic{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));grid-template-rows:repeat(4,clamp(65px,7.6vw,105px));gap:8px}.mosaic img{grid-column:span 2;min-height:0}.mosaic img:first-child{grid-column:span 4;grid-row:span 2}.mosaic img:nth-child(n+4){grid-row:span 2}.facts{display:grid;grid-template-columns:repeat(4,1fr);text-align:center;gap:12px;margin:28px 0}.facts>div+div{border-left:1px solid #52727e}.facts strong{color:#ffc049!important}.team-action{text-align:center}
+.team{background:#052e40;color:white}#comunidad .kicker{color:#ffc049}#comunidad .lead{margin:10px 0 20px;color:#d8e7ea}.mosaic{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));grid-template-rows:repeat(4,clamp(65px,7.6vw,105px));gap:8px}.mosaic img{grid-column:span 2;min-height:0}.mosaic img:first-child{grid-column:span 4;grid-row:span 2}.mosaic img{grid-row:span 2}.facts{display:grid;grid-template-columns:repeat(4,1fr);text-align:center;gap:12px;margin:28px 0}.facts>div+div{border-left:1px solid #52727e}.facts strong{color:#ffc049!important}.team-action{text-align:center}
 .path-details{max-width:1160px;margin:10px auto}.path-details>summary{padding:18px 24px;justify-content:center}.path-details>summary:after{content:'＋'}.path-details[open]>summary:after{content:'−'}
 @media(max-width:700px){#inicio .cover-grid{grid-template-columns:1fr!important;gap:24px!important;padding:34px 18px!important}#inicio .cover-grid>div{padding:0!important}.benefit-grid{grid-template-columns:1fr}.benefit-grid article{display:grid;grid-template-columns:33% 1fr;column-gap:12px;align-items:center}.benefit-grid img{grid-row:span 2;height:100%;max-height:120px;min-height:88px}.benefit-grid h3{align-self:end;margin-top:0}.benefit-grid p{align-self:start}.facts{grid-template-columns:1fr 1fr}.facts>div:nth-child(3){border-left:0}.mosaic{gap:5px;grid-template-rows:repeat(4,47px)}.mosaic img{border-radius:6px}}
 
@@ -75,3 +75,12 @@ header, #contacto{background:#052e40!important}
 .earn li{gap:8px;padding:9px clamp(5px,2cqw,12px);font-size:clamp(16px,5.8cqw,28px);line-height:1.15;font-weight:750}
 .earn li b{font-weight:inherit}
 .earn small{font-size:14px;font-style:italic}
+
+.benefit-grid img[src$="pantalla.webp"]{object-position:50% 26%}
+.benefit-grid img[src$="celular.webp"]{object-position:50% 48%}
+@container (max-width:680px){
+  #inicio .chips{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:4px}
+  #inicio .chips>span{min-width:0;justify-content:center;text-align:center;line-height:1.2;padding:7px 3px;gap:3px;font-size:clamp(10px,2.65vw,12px)}
+  #inicio .chips svg{flex:none;width:13px;height:13px}
+  #inicio .chips site-copy{display:block;min-width:0}
+}

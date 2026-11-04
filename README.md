@@ -18,18 +18,6 @@ Abre public/index.html para revisar el diseño. El administrador, los guardados 
 - admin-source/ incluye las rutas del servidor y los esquemas originales. cloudflare-publicado/wrangler.jsonc mantiene la conexión D1 anterior. Las credenciales privadas y los registros de visitantes se conservan en el servicio original, fuera del ZIP. No se requiere migración para esta versión. Usar el panel con las conexiones de producción sí escribe datos reales al guardar.
 - Las ediciones parciales conservan claves históricas y personalizaciones no enviadas. Los textos de bloques retirados permanecen en el catálogo con la marca archived. Los conteos históricos siguen disponibles y los recorridos nuevos se miden sobre las cinco secciones.
 
-## Ajustes de esta versión
+## Concepto de reclutamiento
 
-Ganancias muestra el título, la jornada y los ejemplos de 3, 4 y 5 lotes. La ruta conserva cinco pasos sin plazos. La comunidad dirige a Facebook y las preguntas frecuentes cierran la página antes del pie.
-
-## Cambios de esta revisión
-
-- «Venta consultiva» ahora dice «venta» en la portada.
-- Ganancias: la jornada (días y horas) forma parte del título.
-- Arennea: debajo de las fotos solo quedan cuatro cifras destacadas en una franja (editables en el panel, grupo ARENNEA). Se retiraron el párrafo, la nota de mensualidades y el botón «Conoce Arennea»; sus textos quedan archivados en el catálogo.
-- Ubicación: sin botón de Google Maps. El bloque de ubicación (fotos, mapa, dirección y «Agenda tu reunión») va ahora debajo de las preguntas frecuentes.
-- Se retiró el cuadro «Más que una oficina». Los botones «Vive la comunidad Marnez» (Facebook) y «Descubre el mundo Marnez» (sitio web) se conservan al final del bloque de ubicación.
-- Colores de bloques: se alternan azul grisáceo claro, crema y azul marino para evitar saltos bruscos de blanco a azul.
-- Si algún texto ya fue editado desde el panel, el valor guardado sigue mandando sobre el del HTML.
-
-- Orden de la portada: Genera ingresos sin límites (con el cuadro de comisiones) abre la página, seguido de «Vende terrenos cerca de la playa». Después siguen Ruta, Marnez, Arennea, preguntas frecuentes y ubicación. Los fondos se alternan: azul grisáceo, azul marino, crema, azul grisáceo, azul marino, crema y azul marino. El menú sigue el mismo orden (Cómo ganas, Oportunidad, Marnez, Arennea, Contacto); el enlace «Inicio» pasó a llamarse «Oportunidad».
+La portada comparte espacio con una sola tabla de comisiones. Le siguen las tres prestaciones, el mosaico de la comunidad, la ruta ampliable del asesor, Arennea, preguntas frecuentes y contacto. El botón flotante dirige a la misma pestaña de Calendly. Para revisar esta versión en GitHub Pages, carga docs/ en la raíz del repositorio de pruebas.

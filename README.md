@@ -31,3 +31,5 @@ Ganancias muestra el título, la jornada y los ejemplos de 3, 4 y 5 lotes. La ru
 - Se retiró el cuadro «Más que una oficina». Los botones «Vive la comunidad Marnez» (Facebook) y «Descubre el mundo Marnez» (sitio web) se conservan al final del bloque de ubicación.
 - Colores de bloques: se alternan azul grisáceo claro, crema y azul marino para evitar saltos bruscos de blanco a azul.
 - Si algún texto ya fue editado desde el panel, el valor guardado sigue mandando sobre el del HTML.
+
+- Orden de la portada: Genera ingresos sin límites (con el cuadro de comisiones) abre la página, seguido de «Vende terrenos cerca de la playa». Después siguen Ruta, Marnez, Arennea, preguntas frecuentes y ubicación. Los fondos se alternan: azul grisáceo, azul marino, crema, azul grisáceo, azul marino, crema y azul marino. El menú sigue el mismo orden (Cómo ganas, Oportunidad, Marnez, Arennea, Contacto); el enlace «Inicio» pasó a llamarse «Oportunidad».

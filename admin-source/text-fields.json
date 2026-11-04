@@ -51,7 +51,7 @@
     "id": "v4-copy-007",
     "group": "HOME",
     "label": "Asesores",
-    "default": "Inicio",
+    "default": "Oportunidad",
     "kind": "text",
     "block": "Navegación"
   },
@@ -1589,7 +1589,7 @@
     "id": "url-0",
     "kind": "url",
     "default": "#inicio",
-    "label": "Destino · Inicio",
+    "label": "Destino · Oportunidad",
     "block": "Botones y enlaces",
     "group": "HOME"
   },

@@ -20,4 +20,4 @@ Abre public/index.html para revisar el diseño. El administrador, los guardados 
 
 ## Concepto de reclutamiento
 
-La portada comparte espacio con una sola tabla de comisiones. Le siguen las tres prestaciones, el mosaico de la comunidad, la ruta ampliable del asesor, Arennea, preguntas frecuentes y contacto. El botón flotante dirige a la misma pestaña de Calendly. Para revisar esta versión en GitHub Pages, carga docs/ en la raíz del repositorio de pruebas.
+La portada comparte espacio con una sola tabla de comisiones. Le siguen las tres prestaciones, el mosaico de la comunidad, Arennea, preguntas frecuentes y contacto. El botón flotante dirige a la misma pestaña de Calendly. Para revisar esta versión en GitHub Pages, carga docs/ en la raíz del repositorio de pruebas.

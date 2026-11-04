@@ -1569,7 +1569,8 @@
     "label": "Dato 4 · cifra",
     "default": "26,000 m²",
     "kind": "text",
-    "block": "Contenido de la sección"
+    "block": "Contenido de la sección",
+    "archived": true
   },
   {
     "id": "arennea-dato-4-txt",
@@ -1577,7 +1578,8 @@
     "label": "Dato 4 · descripción",
     "default": "de áreas verdes",
     "kind": "text",
-    "block": "Contenido de la sección"
+    "block": "Contenido de la sección",
+    "archived": true
   },
   {
     "id": "btn-arennea",

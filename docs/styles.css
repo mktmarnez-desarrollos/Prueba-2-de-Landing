@@ -32,12 +32,17 @@ site-copy{display:contents}body{overflow-x:clip}.arleen-portrait{background-imag
 /* Título con jornada incluida */
 .title-accent{display:block;color:#8A5A12}
 /* Arennea · cifras */
-.facts-strip{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));background:#0C2740;border-radius:24px;padding:36px 12px;box-shadow:0 24px 60px rgba(12,39,64,.18)}
+.facts-strip{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));background:#0C2740;border-radius:24px;padding:36px 12px;box-shadow:0 24px 60px rgba(12,39,64,.18)}
 .fact{display:flex;flex-direction:column;align-items:center;text-align:center;gap:8px;padding:6px 16px}
 .fact+.fact{border-left:1px solid #24476A}
 .fact strong{font-family:Sora,sans-serif;font-size:clamp(28px,3.6vw,46px);line-height:1.05;color:#F2B544;font-variant-numeric:tabular-nums;white-space:nowrap}
 .fact span{font-size:15px;color:#C9D6E3}
-@media(max-width:700px){.facts-strip{grid-template-columns:repeat(2,minmax(0,1fr));padding:20px 8px;row-gap:22px;border-radius:20px}.fact:nth-child(3){border-left:0}.fact:nth-child(n+3){border-top:1px solid #24476A;padding-top:22px}.fact+.fact{border-left:1px solid #24476A}.fact:nth-child(3){border-left:0}.fact strong{font-size:26px}}
+@media(max-width:700px){
+  #arennea .facts-strip{grid-template-columns:repeat(3,minmax(0,1fr))!important;padding:20px 4px;border-radius:20px;gap:0}
+  .facts-strip .fact{min-width:0;padding:4px 3px}
+  .facts-strip .fact strong{font-size:clamp(17px,5.4vw,28px)}
+  .facts-strip .fact span{font-size:clamp(11px,3vw,14px);line-height:1.25}
+}
 /* Contacto */
 .address-card{display:flex;justify-content:center;width:100%;background:#17385A;border-radius:20px;padding:26px 32px}
 #faq details{border-bottom-color:#DDD2BE}

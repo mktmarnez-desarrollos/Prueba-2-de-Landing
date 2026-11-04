@@ -514,8 +514,8 @@
   {
     "id": "v4-copy-071",
     "group": "HOME",
-    "label": "Ejemplo ilustrativo.",
-    "default": "Ejemplo ilustrativo.",
+    "label": "Ejemplo ilustrativo. Ingresos sujetos a ventas.",
+    "default": "Ejemplo ilustrativo. Ingresos sujetos a ventas.",
     "kind": "text",
     "block": "Portada"
   },

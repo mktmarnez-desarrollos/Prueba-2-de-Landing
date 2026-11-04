@@ -48,7 +48,7 @@ header, #contacto{background:#052e40!important}
 .concept .wrap{width:min(1180px,100%);margin:auto;padding:clamp(32px,5vw,72px) clamp(18px,3.5vw,44px)}
 .concept h1,.concept h2,.concept h3{font-family:Sora,Inter,system-ui,sans-serif;line-height:1.04;letter-spacing:-.04em;margin:0}
 .cover{background:linear-gradient(120deg,#f0f6f8,#dcebf0)}
-.cover-grid{display:grid;grid-template-columns:1.28fr 1fr;gap:clamp(24px,4vw,55px);align-items:center}
+.cover-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.08fr);gap:clamp(24px,4vw,55px);align-items:center}
 .concept .kicker,#comunidad .kicker{font-weight:800;letter-spacing:.11em;text-transform:uppercase;font-size:13px;margin:0 0 12px}
 .cover h1{font-size:clamp(40px,5.1vw,72px);max-width:13em}.cover em{display:block;color:#a96500;font-style:normal}
 .concept .lead{font-size:clamp(17px,1.6vw,22px);line-height:1.5;margin:14px 0 20px;max-width:44ch}
@@ -64,12 +64,12 @@ header, #contacto{background:#052e40!important}
 @media(max-width:700px){.team .facts{grid-template-columns:repeat(2,minmax(0,1fr))}.team .facts>div{min-width:0}.team .facts strong{font-size:clamp(21px,5.7vw,29px)!important}}
 
 /* Comisiones por lote vendido */
-.earn{box-sizing:border-box;width:100%;max-width:400px;justify-self:center;min-width:0;padding:16px clamp(16px,2vw,24px);container-type:inline-size}
-.earn h2{font-size:clamp(19px,7cqw,25px)}
-.earn p{margin:3px 0;font-size:clamp(15px,5.6cqw,19px);line-height:1.2}
-.earn .earn-verb{margin:4px 0 0;font-weight:700;font-size:clamp(19px,7cqw,25px)}
-.earn .rate{font-size:clamp(40px,18cqw,64px);line-height:1}
+.earn{box-sizing:border-box;width:100%;max-width:580px;justify-self:center;min-width:0;padding:clamp(20px,3vw,34px) clamp(16px,3vw,36px);container-type:inline-size}
+.earn h2{font-size:clamp(19px,7cqw,32px)}
+.earn p{margin:3px 0;font-size:clamp(15px,5.6cqw,23px);line-height:1.2}
+.earn .earn-verb{margin:4px 0 0;font-weight:700;font-size:clamp(19px,7cqw,32px)}
+#ganancias .rate{font-size:clamp(44px,18cqw,84px)!important;line-height:1}
 .earn ul{padding:2px 0;margin:6px 0 9px}
-.earn li{gap:8px;padding:4px clamp(8px,4cqw,16px);font-size:clamp(17px,6.5cqw,24px);line-height:1.15;font-weight:750}
+.earn li{gap:8px;padding:9px clamp(5px,2cqw,12px);font-size:clamp(16px,5.8cqw,28px);line-height:1.15;font-weight:750}
 .earn li b{font-weight:inherit}
 .earn small{font-size:14px;font-style:italic}

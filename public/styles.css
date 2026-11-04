@@ -89,3 +89,7 @@ header, #contacto{background:#052e40!important}
   #inicio .chips svg{flex:none;width:13px;height:13px}
   #inicio .chips site-copy{display:block;min-width:0}
 }
+
+@media (max-width:700px){
+  #inicio #ganancias .rate{font-size:clamp(52px,19cqw,84px)!important}
+}

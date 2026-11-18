@@ -1500,7 +1500,7 @@
   {
     "id": "desarrollo",
     "label": "Características del desarrollo",
-    "default": "En Dzidzantún, Yucatán, Arennea reúne 919 lotes desde 160 m² en ocho etapas. El proyecto contempla 26,000 m² de áreas verdes, dos parques para mascotas, canchas de usos múltiples, asadores, andadores y un área comercial.",
+    "default": "En Dzidzantún, Yucatán, Arennea reúne 919 lotes desde 180 m² en ocho etapas. El proyecto contempla 26,000 m² de áreas verdes, dos parques para mascotas, canchas de usos múltiples, asadores, andadores y un área comercial.",
     "kind": "text",
     "group": "ARENNEA",
     "block": "Contenido de la sección",
@@ -1535,7 +1535,7 @@
     "id": "arennea-dato-2",
     "group": "ARENNEA",
     "label": "Dato 2 · cifra",
-    "default": "160 m²",
+    "default": "180 m²",
     "kind": "text",
     "block": "Contenido de la sección"
   },
